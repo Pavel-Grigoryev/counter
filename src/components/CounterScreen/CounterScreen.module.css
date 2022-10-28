@@ -1,0 +1,37 @@
+.counter {
+    margin: 50px auto;
+    padding: 20px;
+    width: 300px;
+    border: 2px solid mediumturquoise;
+    border-radius: 10px;
+}
+
+.counter__Num {
+    font-size: 50px;
+}
+
+.counter__errNum {
+    color: crimson;
+}
+
+.counter__board {
+    background-color: mediumturquoise;
+    padding: 30px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    height: 130px;
+}
+
+.counter__buttonBlock {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    border: 2px solid mediumturquoise;
+    border-radius: 5px;
+}
+
+.counter__textErr {
+    color: crimson;
+}

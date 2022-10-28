@@ -1,0 +1,29 @@
+.counter {
+    margin: 50px auto;
+    padding: 20px;
+    width: 400px;
+    border: 2px solid mediumturquoise;
+    border-radius: 10px;
+}
+
+.counter__board {
+    background-color: mediumturquoise;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 30px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    height: 130px;
+}
+
+.counter__buttonBlock {
+    display: flex;
+    justify-content: center;
+    column-gap: 16px;
+    padding: 15px;
+    border: 2px solid mediumturquoise;
+    border-radius: 5px;
+}

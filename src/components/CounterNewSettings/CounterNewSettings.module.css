@@ -1,0 +1,31 @@
+.counterSet {
+    margin: 50px auto;
+    padding: 20px;
+    width: 300px;
+    border: 2px solid mediumturquoise;
+    border-radius: 10px;
+}
+
+.counter__endNumber {
+    color: red;
+}
+
+.counterSet__board {
+    background-color: mediumturquoise;
+    padding: 20px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    height: 130px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.counter__buttonBlock {
+    padding: 15px;
+    border: 2px solid mediumturquoise;
+    border-radius: 5px;
+}
+
